@@ -11,5 +11,3 @@ To run the app type
 # Burmese
 
 Ferocious, no socila skills
-
-# New Branch
