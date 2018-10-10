@@ -10,5 +10,5 @@ To run the app type
 
 # Burmese
 
-Ferocious, no socila skills
+Ferocious, no social skills
 
